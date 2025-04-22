@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/y93slPbDMdeXJQONHa/giphy.gif" width="300"/>
+  <img src="https://github.com/user-attachments/assets/a9bb4492-f372-4e5c-8052-7532a5bcefdc" width="300"/>
 </div>
 
 # 👋🏻 ¡Hola! Soy Carocitta
@@ -65,7 +65,7 @@ Actualmente finalizando un bootcamp intensivo y **buscando nuevas oportunidades*
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/A1oBMukTqFfkoY1HiH/giphy.gif" width="300"/>
+  <img src="https://github.com/user-attachments/assets/7c333317-db32-43a3-b067-ca1df4806cb2" width="300"/>
 </div>
 
 > 💬 *"Reinventarse es parte del camino."*
