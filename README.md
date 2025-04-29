@@ -3,11 +3,10 @@
 </div>
 
 # 👋🏻 ¡Hola! Soy Carocitta
+Soy una desarrolladora web Fullstack apasionada por la ciberseguridad y el Frontend. Me encanta combinar lógica, diseño y creatividad para construir proyectos web con alma. Siempre en constante aprendizaje, mi objetivo es crear experiencias digitales seguras, accesibles y visualmente atractivas.
 
-Desarrolladora Web **Fullstack** con formación en **Ciberseguridad**, apasionada por el **Frontend** y en constante aprendizaje.  
-Me encanta construir proyectos web con alma, combinando lógica, diseño y creatividad.
+🚀 Actualmente estoy finalizando un bootcamp intensivo en Fullstack + Ciberseguridad y buscando nuevas oportunidades para seguir creciendo, aprender y aportar valor a proyectos innovadores.
 
-Actualmente finalizando un bootcamp intensivo y **buscando nuevas oportunidades** para seguir creciendo y aportando valor 🚀.
 
 ---
 
@@ -43,10 +42,9 @@ Actualmente finalizando un bootcamp intensivo y **buscando nuevas oportunidades*
 ---
 
 ## ✨ También me interesa...
+🎨 El diseño, el arte y el desarrollo visual: Estoy constantemente buscando nuevas formas de integrar creatividad con tecnología, lo que me ha llevado a comenzar mi propia página como artista visual.
 
-🎨 El diseño, el arte y el desarrollo visual.  
-🎭 Estoy creando mi propia página como artista visual.  
-🎮 Y, por supuesto, ¡me encantan los desafíos que implican creatividad y tecnología!
+🎮 Desafíos creativos: Me entusiasman los proyectos que implican un reto creativo, donde la tecnología y el diseño se combinan para resolver problemas innovadores.
 
 ---
 
@@ -68,6 +66,6 @@ Actualmente finalizando un bootcamp intensivo y **buscando nuevas oportunidades*
   <img src="https://github.com/user-attachments/assets/7c333317-db32-43a3-b067-ca1df4806cb2" width="300"/>
 </div>
 
-> 💬 *"Reinventarse es parte del camino."*
+> 💬 *"Reinventarse es parte del camino, y cada día es una nueva oportunidad para aprender y crecer."*
 
 ---
