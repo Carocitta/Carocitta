@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="file:///Users/carolinamas/Downloads/ChatGPT%20Image%2012%20may%202025,%2015_38_07.png" width="300"/>
+  <img src="https://github.com/user-attachments/assets/a9bb4492-f372-4e5c-8052-7532a5bcefdc" width="300"/>
 </div>
 
 # 👋🏻 ¡Hola! Soy Carocitta
