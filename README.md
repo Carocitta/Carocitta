@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="![image](https://github.com/user-attachments/assets/76d57f61-37a2-48bf-8d85-0a9e360eeba2)
+  <img src="![image]([https://github.com/user-attachments/assets/76d57f61-37a2-48bf-8d85-0a9e360eeba2](https://media1.tenor.com/m/Wm4dRBIB4jsAAAAC/this-is-fine-it-crowd.gif))
 " width="300"/>
 </div>
 
