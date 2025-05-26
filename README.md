@@ -67,7 +67,7 @@ He trabajado con herramientas y buenas prácticas de seguridad web en proyectos 
 ## 🧩 Proyectos donde apliqué estas tecnologías
 
 - 🛒 `will_vila_be`: uso de **Postman** para testing de endpoints  
-- 📌 `commit-me-be`: backend con **Spring Boot**, **Docker** y base de datos en **MySQL**
+- 📌 `commit-me-be`: backend con **Spring Boot** y base de datos en **MySQL**
 - 🎯 Ver más en la pestaña [Proyectos](https://github.com/Carocitta?tab=repositories)
 
 ---
