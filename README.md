@@ -1,13 +1,11 @@
 <div align="center">
-  <img src="![image]([https://github.com/user-attachments/assets/76d57f61-37a2-48bf-8d85-0a9e360eeba2](https://media1.tenor.com/m/Wm4dRBIB4jsAAAAC/this-is-fine-it-crowd.gif))
-" width="300"/>
+  <img src="https://media1.tenor.com/m/Wm4dRBIB4jsAAAAC/this-is-fine-it-crowd.gif" width="300"/>
 </div>
 
 # 👋🏻 ¡Hola! Soy Carocitta
 Soy una desarrolladora web Fullstack apasionada por la ciberseguridad y el Frontend. Me encanta combinar lógica, diseño y creatividad para construir proyectos web con alma. Siempre en constante aprendizaje, mi objetivo es crear experiencias digitales seguras, accesibles y visualmente atractivas.
 
 🚀 Actualmente estoy finalizando un bootcamp intensivo en Fullstack + Ciberseguridad y buscando nuevas oportunidades para seguir creciendo, aprender y aportar valor a proyectos innovadores.
-
 
 ---
 
@@ -68,5 +66,3 @@ Soy una desarrolladora web Fullstack apasionada por la ciberseguridad y el Front
 </div>
 
 > 💬 *"Reinventarse es parte del camino, y cada día es una nueva oportunidad para aprender y crecer."*
-
----
