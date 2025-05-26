@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/a9bb4492-f372-4e5c-8052-7532a5bcefdc" width="300"/>
+  <img src="![image](https://github.com/user-attachments/assets/76d57f61-37a2-48bf-8d85-0a9e360eeba2)
+" width="300"/>
 </div>
 
 # 👋🏻 ¡Hola! Soy Carocitta
