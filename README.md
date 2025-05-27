@@ -6,7 +6,7 @@
 
 Soy una desarrolladora web **Fullstack** con foco en **Frontend** y un gran interés por la **ciberseguridad**. Me apasiona combinar lógica, diseño y creatividad para crear experiencias digitales seguras, accesibles y visualmente impactantes. ✨
 
-🚀 Actualmente finalizando un bootcamp intensivo en Fullstack + Ciberseguridad y **buscando nuevas oportunidades** para crecer, aprender y aportar valor en proyectos con propósito.
+Actualmente finalizando un bootcamp intensivo en Fullstack + Ciberseguridad y **buscando nuevas oportunidades** para crecer, aprender y aportar valor en proyectos con propósito.
 
 ---
 
