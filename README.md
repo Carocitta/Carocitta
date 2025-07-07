@@ -8,36 +8,66 @@ I'm a Fullstack web developer with a focus on Frontend and a strong interest in 
 
 Currently finishing an intensive Fullstack + Cybersecurity bootcamp and actively looking for new opportunities to grow, learn, and contribute to meaningful projects.
 
-🧰 Tech Stack
-🎨 Frontend
-<p> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" /> <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" /> <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" /> </p>
-🧪 Backend
-<p> <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" /> </p>
-🗄️ Databases
-<p> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/pgAdmin4-008bb9?style=for-the-badge" /> </p>
-⚙️ Development Tools
-<p> <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" /> <img src="https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge" /> </p>
-🖌️ Design & Project Management
-<p> <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white&style=for-the-badge" /> </p>
-🔐 Cybersecurity
+##🧰 Tech Stack
+
+###🎨 Frontend
+<p> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" /> 
+  <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge" /> 
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" /> 
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" /> 
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" /> </p>
+  
+###🧪 Backend
+<p> <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge" /> 
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge" /> 
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" /> </p>
+  
+###🗄️ Databases
+<p> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" /> 
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" /> 
+  <img src="https://img.shields.io/badge/pgAdmin4-008bb9?style=for-the-badge" /> </p>
+  
+###⚙️ Development Tools
+<p> <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" /> 
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" /> 
+  <img src="https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge" /> </p>
+
+  
+###🖌️ Design & Project Management
+<p> <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white&style=for-the-badge" /> </p>
+
+
+---
+
+###🔐 Cybersecurity
 I've worked with security tools and best practices in projects like Bursuite, FoxyProxy, and Linux hardening exercises:
 
-REST API security (authentication and authorization)
+-REST API security (authentication and authorization)
 
-Use of proxies, sniffers, and analysis tools
+-Use of proxies, sniffers, and analysis tools
 
-Access control and input sanitization
+-Access control and input sanitization
 
-Secure deployments with Docker
+-Secure deployments with Docker
 
-🧩 Projects Where I Applied These Technologies
-🛒 will_vila_be: used Postman for endpoint testing
+---
 
-📌 commit-me-be: backend with Spring Boot and MySQL database
 
-🎯 See more in the Projects tab
+##🧩 Projects Where I Applied These Technologies
 
-✨ About Me
+- 🛒 `will_vila_be`: used Postman for endpoint testing
+- 📌 `commit-me-be`:  backend with Spring Boot and MySQL database
+-🎯 See more in the Projects tab: [Proyects](https://github.com/Carocitta?tab=repositories)
+
+---
+
+##✨ About Me
+
 🎨 Besides coding, I'm also a visual artist. I'm constantly looking for ways to integrate creativity with technology, building interfaces with personality and purpose.
 
 💡 I love creative challenges that combine design + logic to solve problems in unique ways.
@@ -47,13 +77,14 @@ Secure deployments with Docker
 ✅ Working on personal and collaborative projects
 ✅ Open to collaborations, internships, or job opportunities
 
-📫 Let’s Connect!
+## 📫 Let’s Connect!
 
+[![LinkedIn](https://img.shields.io/badge/-Carolina%20Mas-blue?logo=Linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/carolina-mas/)
 
-<div align="center"> <img src="https://github.com/user-attachments/assets/7c333317-db32-43a3-b067-ca1df4806cb2" width="300"/> </div>
+---
+
 💬 "Reinvention is part of the journey, and every day is a new opportunity to learn and grow."
 
-¿Te gustaría que lo formatee en un archivo .md descargable o con alguna personalización adicional?
 
 ------------------------------------------------------------------------
 
