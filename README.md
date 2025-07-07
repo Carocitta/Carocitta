@@ -1,7 +1,9 @@
 <div align="center">
   <img src="https://media1.tenor.com/m/Wm4dRBIB4jsAAAAC/this-is-fine-it-crowd.gif" width="300"/>
 </div>
-👋🏻 Hi! I'm Carocitta
+
+# 👋🏻 Hi! I'm Carocitta
+
 I'm a Fullstack web developer with a focus on Frontend and a strong interest in Cybersecurity. I'm passionate about blending logic, design, and creativity to build secure, accessible, and visually impactful digital experiences. ✨
 
 Currently finishing an intensive Fullstack + Cybersecurity bootcamp and actively looking for new opportunities to grow, learn, and contribute to meaningful projects.
